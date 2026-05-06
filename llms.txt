@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Gowaya Waga3 Maktoum |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/gowaya-waga3-maktoum/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Gowaya Waga3 Maktoum](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
