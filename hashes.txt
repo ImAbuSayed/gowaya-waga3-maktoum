@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gowaya Waga3 Maktoum
+
+This log tracks the cryptographic history and versioning for the song **Gowaya Waga3 Maktoum** (gowaya-waga3-maktoum).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:23:27.654395 | `v1` | `b8ac777e256f52e829b128fb6b32f81c909bbd9232cbeaffe87748afcb3bbc67` | `373de0ab45a5b51d6dcdb7c6d4593550274cddc8a7eb62c34bbda7fba1b61fec` | `2026-05-08_gowaya-waga3-maktoum-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
